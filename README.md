@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i like to code
 
 * 🌍  I'm based in berlin
-* 🚀  I'm currently working on [https://slitbot.de](http://slitbot.de)
+* 🚀  I'm currently working on pierce bot
 
 ## <div align="center">💻 Tech Stack:</div>
 <div align="center">
