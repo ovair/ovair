@@ -32,3 +32,7 @@ i like to code
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="UBUNTU" title="UBUNTU"/></code>
 </div>
 
+Current Projects:
+
+**[Sable](https://sablebot.de)** Multipurpose discord bot written in discord.py
+**[SnapGit]() Git CLI Wrapper written in go. Git without headache.
